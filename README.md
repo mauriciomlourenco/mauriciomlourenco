@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mauriciomlourenco
-- 💼 I'm currently working at Parque Tecnológico Itaipu as Junior Programmer
+- 👨🏻‍💻 I'm currently working at Parque Tecnológico Itaipu as Junior Programmer
 - 👀 I’m interested in ... Internet of Things (IoT), Microcontrollers, LoraWan, Front-end, Back-end, Web Programming, Applications development, APIs.
 - 🌱 I’m currently learning ... JavaScript, React, Ract Native, Node JS, SQL, HTML, CSS, Typescript
 - 💞️ I’m looking to collaborate on ... Any project that helps me learn and improve my programming skills
