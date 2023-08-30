@@ -30,6 +30,10 @@
 
 <div align="center"><img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif"/></div>
 
+<div align="center">
+          <br>
+            <img src="https://spotify-github-profile.vercel.app/api/view?uid=7dtmqx0ck6zx6f16z2hgtzh7e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile" />
+</div>
 <!---
 mauriciomlourenco/mauriciomlourenco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
