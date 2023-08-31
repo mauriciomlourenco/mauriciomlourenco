@@ -34,6 +34,13 @@
           <br>
             <img src="https://spotify-github-profile.vercel.app/api/view?uid=7dtmqx0ck6zx6f16z2hgtzh7e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile" />
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mauriciomlourenco/mauriciomlourenco/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mauriciomlourenco/mauriciomlourenco/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mauriciomlourenco/mauriciomlourenco/output/github-contribution-grid-snake.svg">
+</picture>
+
 <!---
 mauriciomlourenco/mauriciomlourenco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
