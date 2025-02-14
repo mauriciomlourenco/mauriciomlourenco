@@ -1,12 +1,12 @@
-## 👋 Hi, welcome to my profile!
+## 👋 Hello! Welcome to my profile!
 
-<p align="justify">Hello! I am a Computer Engineer with a deep passion for programming and software development. I began my journey in technology during high school through a technical course in IT, where I quickly became fascinated with coding and the challenges it presented. This early interest drove me to pursue further knowledge, and I graduated with a degree in Computer Engineering from the Federal University of Santa Maria. I now have over three years of professional experience, with two years specifically in front-end development.</p> 
+<p align="justify">I'm a Computer Engineer passionate about programming and software development. My journey in technology started during high school with a technical IT course, where I quickly discovered my love for coding. This passion led me to pursue a degree in Computer Engineering at the Federal University of Santa Maria.</p> 
 
-<p align="justify">Throughout my career, I've had the opportunity to work in multidisciplinary teams, always committed to delivering value and quality to clients. In every project, I strive to overcome challenges and continuously enhance my skills, focusing on creating efficient, user-centered solutions.</p>
+<p align="justify">With over three years of professional experience, primarily in front-end development, I have worked on complex projects, collaborating with multidisciplinary teams to deliver high-quality, user-focused solutions. One of my key projects involved developing a multi-language web application with intricate business rules, evolving from a solo effort into a team-driven success.</p>
 
-<p align="justify">In my current role, I initially took on the responsibility of front-end development for two complex projects as the sole interface developer. I developed screens from Figma mockups provided by the design team, including a robust web application that supports four languages (Portuguese, English, Spanish, and French) and features intricate business rules. As the projects evolved, additional demands and tight deadlines required the addition of more developers to the team. Working together, we successfully completed the projects and delivered a product that met client expectations.</p>
+<p align="justify">Always eager to grow, I recently completed a postgraduate degree in Software Engineering, expanding my knowledge in project management, UX, and data analysis. Currently, I am diving into Java, Spring Boot, and NodeJS to broaden my back-end expertise, aiming to become a full-stack developer. My next challenge? Exploring mobile development with React Native and Flutter.</p>
 
-<p align="justify">My current goal is to continue advancing as a developer. Recently, I completed a postgraduate degree in Software Engineering, gaining new knowledge in project management, user experience (UX), and data analysis. I am also exploring technologies like Java, Spring Boot, and NodeJS to expand my expertise in back-end development with the aim of becoming a full-stack developer. In the future, I plan to deepen my knowledge of mobile development, focusing on React Native and Flutter.</p>     
+<p align="justify">Feel free to explore my repositories and connect with me! 🚀</p>     
           
 
 ### 🚀 Status
